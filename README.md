@@ -1,1 +1,1 @@
-# Audit issue spotlight - CosmWasm contracts
+# CosmWasm audits: issue spotlight
