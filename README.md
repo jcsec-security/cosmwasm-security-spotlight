@@ -10,3 +10,8 @@ In addition, some hands-on labs are created so the reader can practice their bug
     - Spot the bug challenge [02-Auth](https://github.com/oak-security/cosmwasm-security-dojo/tree/main/challenges/02-auth)
 - [#3 Address validation](https://jcsec-audits.medium.com/cosmwasm-security-spotlight-3-2b11f36fd61)
     - Spot the bug challenge [05-Addressing](https://github.com/oak-security/cosmwasm-security-dojo/tree/main/challenges/05-addressing)
+
+# CosmWasm CTF - AwesomWasm 2023
+
+Check the CTF that I co-created for the AwesomWasm 2023 conference to challenge your knowledge afterward!
+- [Oak Security CosmWasm CTF](https://github.com/oak-security/cosmwasm-ctf)
