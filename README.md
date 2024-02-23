@@ -1,3 +1,8 @@
+> [!NOTE] 
+> Would you like to know more about my security services?
+> [Check out my website](https://jcsec.io/)!
+---
+
 # CosmWasm Security Spotlight
 
 CosmWasm Security Spotlight is intended to be a series of medium posts about vulnerabilities found in audits of CW smart contracts. It would be a good starting point for anyone looking to get into CW contracts audits or to develop more secure smart contracts.
